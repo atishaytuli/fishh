@@ -2,11 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-    background-color: #F6F1EB;
-    cursor: url('/cursor.png'), auto;
+* select {
+  background-color: rgb(41, 149, 211) !important;
 }
 
-.foot img{
-    clip-path: circle(50% at 50% 50%);
+body {
+  background-color: white;
+  cursor: url("/cursor.png"), auto;
+}
+
+.foot img {
+  clip-path: circle(50% at 50% 50%);
 }

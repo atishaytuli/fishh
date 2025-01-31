@@ -16,7 +16,7 @@ function Navbar() {
             <li className="text-white text-xs sm:text-sm md:text-md cursor-pointer hover:bg-blue-200/30 transition-all px-2 sm:px-3 py-1 rounded-lg whitespace-nowrap">Maps</li>
             <li className="text-white text-xs sm:text-sm md:text-md cursor-pointer hover:bg-blue-200/30 transition-all px-2 sm:px-3 py-1 rounded-lg whitespace-nowrap">Forecast</li>
             <li className="text-white text-xs sm:text-sm md:text-md cursor-pointer hover:bg-blue-200/30 transition-all px-2 sm:px-3 py-1 rounded-lg whitespace-nowrap">Shop</li>
-            <li className="text-blue-500 text-xs sm:text-sm md:text-md cursor-pointer bg-zinc-100/30 transition-all px-2 sm:px-3 py-1 rounded-lg whitespace-nowrap">Sale</li>
+            <li className="text-blue-500 text-xs sm:text-sm md:text-md cursor-pointer bg-blue-200/30 transition-all px-2 sm:px-3 py-1 rounded-lg whitespace-nowrap">Sale</li>
           </ul>
         </div>
         <div className="nav-3 hidden lg:flex lg:items-center lg:gap-6">
